@@ -13,7 +13,7 @@ Neste projeto do curso Bootcamp Dio Santander, desenvolvemos um aplicativo de c�
 
 Aqui está um GIF demonstrando o funcionamento do aplicativo:
 
-![Demonstração do App](caminho/para/o/gif/imc_app_demo.gif)
+![Demonstração do App](https://github.com/Viniciusouza19/Imc_Flutter/blob/imc-hive-patch-1/imc_hive_flutter/appIntro.gif)
 
 ## Tecnologias Utilizadas
 
